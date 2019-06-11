@@ -5,10 +5,6 @@
  */
 window.addEventListener('load', function() {
     this.setTimeout(addAlert, 60000);
-    // var button = document.getElementById('alert-trigger');
-
-    // button.addEventListener('click', addAlert);
-
 });
 
 /*
